@@ -1,0 +1,4 @@
+urllib3
+requests
+numpy
+scipy
